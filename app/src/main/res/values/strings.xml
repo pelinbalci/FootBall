@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootBall</string>
+    <string name="goal">Goal!!</string>
+    <string name="yellowcard">Yellow Card</string>
+    <string name="redcard">Red Card</string>
+    <string name="penalty">Penalty</string>
+    <string name="resetbutton">Reset</string>
+    <string name="initialvalue">0</string>
+    <string name="teamA">Milan</string>
+    <string name="teamB">Chelsea</string>
+</resources>
